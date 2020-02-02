@@ -1,0 +1,8 @@
+colors:
+  normal: 'white'
+  highlight: 'cyan'
+  disabled: 'black'
+  good: 'green'
+  warn: 'yellow'
+  error: 'red'
+
